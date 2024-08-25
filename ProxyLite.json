@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".3qsafe.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+      ]
+    },
+    {
+      "ip_cidr": [
+      ]
+    }
+  ]
+}
